@@ -14,9 +14,9 @@ namespace Polymer3D_APIs.Controllers
         CustomerContext customerContext = new CustomerContext();  
 
         // GET: api/Customer
-        public IEnumerable<string> Get()
+        public List<CustomerModel> Get()
         {
-            return new string[] { "value1", "value2" };
+            return customerContext.getAllCustomers();
         }
 
         // GET: api/Customer/5
@@ -31,16 +31,17 @@ namespace Polymer3D_APIs.Controllers
         {
             Guid id = Guid.NewGuid();
             customerContext.postCustomer(customer, id);
+            //TODO: return 200 instead of 204
         }
 
         // PUT: api/Customer/5
-        public void Put(int id, [FromBody]string value)
-        {
-        }
+        //public void Put(int id, [FromBody]string value)
+        //{
+        //}
 
-        // DELETE: api/Customer/5
-        public void Delete(int id)
-        {
-        }
+        //// DELETE: api/Customer/5
+        //public void Delete(int id)
+        //{
+        //}
     }
 }

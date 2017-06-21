@@ -13,6 +13,7 @@ namespace Polymer3D_APIs.Models
         public string phone{ get; set; }
         public string company{ get; set; }
         public string moreinfo{ get; set; }
-        public ServiceModel[] servicesList { get; set; }
+        public string customerType { get; set;  }
+        public string servicesList { get; set; }
     }
 }

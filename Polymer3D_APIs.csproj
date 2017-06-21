@@ -128,7 +128,6 @@
     </Compile>
     <Compile Include="DataAccess\Dynamo\CustomerContext.cs" />
     <Compile Include="Models\CustomerModel.cs" />
-    <Compile Include="Models\ServicesListModel.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
