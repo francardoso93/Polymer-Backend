@@ -6,9 +6,11 @@ using System.Net.Http;
 using System.Web.Http;
 using Polymer3D_APIs.DataAccess.Dynamo;
 using Polymer3D_APIs.Models;
+using System.Web.Http.Cors;
 
 namespace Polymer3D_APIs.Controllers
 {
+    [EnableCors(origins: "*", headers: "*", methods: "*")]
     public class CustomerController : ApiController
     {
         CustomerContext customerContext = new CustomerContext();  

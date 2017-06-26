@@ -45,3 +45,6 @@ C:\Users\Fran\Documents\3dmarketplace\Polymer3D_APIs\Polymer3D_APIs\bin\System.W
 C:\Users\Fran\Documents\3dmarketplace\Polymer3D_APIs\Polymer3D_APIs\obj\Debug\Polymer3D_APIs.csprojResolveAssemblyReference.cache
 C:\Users\Fran\Documents\3dmarketplace\Polymer3D_APIs\Polymer3D_APIs\obj\Debug\Polymer3D_APIs.dll
 C:\Users\Fran\Documents\3dmarketplace\Polymer3D_APIs\Polymer3D_APIs\obj\Debug\Polymer3D_APIs.pdb
+C:\Users\Fran\Documents\3dmarketplace\Polymer3D_APIs\Polymer3D_APIs\bin\System.Web.Cors.dll
+C:\Users\Fran\Documents\3dmarketplace\Polymer3D_APIs\Polymer3D_APIs\bin\System.Web.Http.Cors.dll
+C:\Users\Fran\Documents\3dmarketplace\Polymer3D_APIs\Polymer3D_APIs\bin\System.Web.Http.Cors.xml
