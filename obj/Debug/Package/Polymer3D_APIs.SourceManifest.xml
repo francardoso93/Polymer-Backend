@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <sitemanifest>
-  <IisApp path="C:\Users\Fran\Documents\3dmarketplace\Polymer3D_APIs\Polymer3D_APIs\obj\Debug\Package\PackageTmp" />
-  <setAcl path="C:\Users\Fran\Documents\3dmarketplace\Polymer3D_APIs\Polymer3D_APIs\obj\Debug\Package\PackageTmp" setAclResourceType="Directory" />
-  <setAcl path="C:\Users\Fran\Documents\3dmarketplace\Polymer3D_APIs\Polymer3D_APIs\obj\Debug\Package\PackageTmp" setAclUser="anonymousAuthenticationUser" setAclResourceType="Directory" />
+  <IisApp path="C:\Users\Fran\Documents\Polymer3D\Polymer3D_APIs\Polymer3D_APIs\obj\Debug\Package\PackageTmp" />
+  <setAcl path="C:\Users\Fran\Documents\Polymer3D\Polymer3D_APIs\Polymer3D_APIs\obj\Debug\Package\PackageTmp" setAclResourceType="Directory" />
+  <setAcl path="C:\Users\Fran\Documents\Polymer3D\Polymer3D_APIs\Polymer3D_APIs\obj\Debug\Package\PackageTmp" setAclUser="anonymousAuthenticationUser" setAclResourceType="Directory" />
 </sitemanifest>
