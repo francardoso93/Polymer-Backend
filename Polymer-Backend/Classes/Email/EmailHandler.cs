@@ -48,7 +48,7 @@ namespace Polymer3D_APIs.Classes.Email
                 mail.From = new MailAddress("contato@polymer3d.com.br");
                 //TODO: Mailist em arquivo externo
                 mail.To.Add("francardoso@outlook.com");
-                mail.To.Add("giovanniferreira_90@hotmail.com.com.br");
+                mail.To.Add("giovanniferreira_90@hotmail.com.br");
                 mail.To.Add("gioferreira.90@gmail.com");
                 ////
                 mail.Subject = "Novo Cliente: " + customer.name;
